@@ -1,6 +1,7 @@
 ---
 draft: false
 title: Fosse de la Fausse Monnaie
+ref: FFM
 location: '{"type":"Point","coordinates":[6.375922,43.0054964]}'
 types:
   - Baptême
