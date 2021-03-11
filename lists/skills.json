@@ -3,28 +3,28 @@
     {
       "title": "Niveau 1",
       "ref": null,
-      "cmas": "Plongeur ⭐",
+      "cmas": "Plongeur ★",
       "cds": "PE-20",
       "body": "Plongeur encadré jusque 20 m"
     },
     {
       "title": "Niveau 2",
       "ref": null,
-      "cmas": "Plongeur ⭐⭐",
+      "cmas": "Plongeur ★★",
       "cds": "PA-20 PE-40",
       "body": "Plongeur encadré jusque 40 m\n\nPlongeur autonome jusque 20 m"
     },
     {
       "title": "Niveau 3",
       "ref": null,
-      "cmas": "Plongeur ⭐⭐⭐",
+      "cmas": "Plongeur ★★★",
       "cds": "PA-60",
       "body": "Plongeur autonome jusque 60 m"
     },
     {
       "title": "Niveau 4",
       "ref": null,
-      "cmas": "Plongeur ⭐⭐⭐",
+      "cmas": "Plongeur ★★★",
       "cds": "GP",
       "body": "[Guide de palanquée](https://fr.wikipedia.org/wiki/Guide_de_palanqu%C3%A9e \"Guide de palanquée\") : encadrement (en exploration) de plongeurs Débutants à N4\n\nPlongeur autonome jusque 60 m"
     },
