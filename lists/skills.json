@@ -2,63 +2,54 @@
   "skills": [
     {
       "title": "Niveau 1",
-      "ref": null,
       "cmas": "Plongeur ★",
       "cds": "PE-20",
       "body": "Plongeur encadré jusque 20 m"
     },
     {
       "title": "Niveau 2",
-      "ref": null,
       "cmas": "Plongeur ★★",
       "cds": "PA-20 PE-40",
       "body": "Plongeur encadré jusque 40 m\n\nPlongeur autonome jusque 20 m"
     },
     {
       "title": "Niveau 3",
-      "ref": null,
       "cmas": "Plongeur ★★★",
       "cds": "PA-60",
       "body": "Plongeur autonome jusque 60 m"
     },
     {
       "title": "Niveau 4",
-      "ref": null,
       "cmas": "Plongeur ★★★",
       "cds": "GP",
       "body": "[Guide de palanquée](https://fr.wikipedia.org/wiki/Guide_de_palanqu%C3%A9e \"Guide de palanquée\") : encadrement (en exploration) de plongeurs Débutants à N4\n\nPlongeur autonome jusque 60 m"
     },
     {
       "title": "Niveau 5",
-      "ref": null,
       "cmas": "",
       "cds": "",
       "body": "[Directeur de plongée](https://fr.wikipedia.org/wiki/Directeur_de_plong%C3%A9e) (en exploration)\n\nPlongeur autonome jusque 60 m"
     },
     {
       "title": "Moniteur E1",
-      "ref": null,
       "cmas": null,
       "cds": "E-1",
       "body": "Enseignant du N1 au N2 jusque 6 m\n\nDirecteur de plongée (en milieu artificiel de moins de 6 m uniquement)"
     },
     {
       "title": "Moniteur E2",
-      "ref": null,
       "cmas": "Moniteur ★",
       "cds": "E-2",
       "body": "Enseignant du N1 au N4 jusque 20 m"
     },
     {
       "title": "Moniteur fédéral 1er degré",
-      "ref": null,
       "cmas": "Moniteur ★★",
       "cds": "E-3",
       "body": "Enseignant du N1 au N5 jusque 40 m\n\n[Directeur de plongée](https://fr.wikipedia.org/wiki/Directeur_de_plong%C3%A9e)"
     },
     {
       "title": "Moniteur fédéral 2ème degré",
-      "ref": null,
       "cmas": "Moniteur ★★★",
       "cds": "E-4",
       "body": "Enseignant du N1 au N5 jusque 60 m\n\nEnseignant de MF1"
