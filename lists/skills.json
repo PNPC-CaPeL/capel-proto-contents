@@ -1,1 +1,10 @@
-{}
+{
+  "skills": [
+    {
+      "title": "Niveau 1",
+      "body": "Plongeur encadré jusque 20 m",
+      "cds": "PE-20",
+      "cmas": "Plongeur ⭐"
+    }
+  ]
+}
