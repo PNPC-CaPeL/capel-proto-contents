@@ -1,58 +1,31 @@
 {
   "skills": [
     {
-      "title": "Niveau 1",
-      "cmas": "Plongeur ★",
-      "cds": "PE-20",
-      "body": "Plongeur encadré jusque 20 m"
+      "skill": "Niveau 1"
     },
     {
-      "title": "Niveau 2",
-      "cmas": "Plongeur ★★",
-      "cds": "PA-20 PE-40",
-      "body": "Plongeur encadré jusque 40 m\n\nPlongeur autonome jusque 20 m"
+      "skill": "Niveau 2"
     },
     {
-      "title": "Niveau 3",
-      "cmas": "Plongeur ★★★",
-      "cds": "PA-60",
-      "body": "Plongeur autonome jusque 60 m"
+      "skill": "Niveau 3"
     },
     {
-      "title": "Niveau 4",
-      "cmas": "Plongeur ★★★",
-      "cds": "GP",
-      "body": "[Guide de palanquée](https://fr.wikipedia.org/wiki/Guide_de_palanqu%C3%A9e \"Guide de palanquée\") : encadrement (en exploration) de plongeurs Débutants à N4\n\nPlongeur autonome jusque 60 m"
+      "skill": "Niveau 4"
     },
     {
-      "title": "Niveau 5",
-      "cmas": "",
-      "cds": "",
-      "body": "[Directeur de plongée](https://fr.wikipedia.org/wiki/Directeur_de_plong%C3%A9e) (en exploration)\n\nPlongeur autonome jusque 60 m"
+      "skill": "Niveau 5"
     },
     {
-      "title": "Moniteur E1",
-      "cmas": null,
-      "cds": "E-1",
-      "body": "Enseignant du N1 au N2 jusque 6 m\n\nDirecteur de plongée (en milieu artificiel de moins de 6 m uniquement)"
+      "skill": "Moniteur E1"
     },
     {
-      "title": "Moniteur E2",
-      "cmas": "Moniteur ★",
-      "cds": "E-2",
-      "body": "Enseignant du N1 au N4 jusque 20 m"
+      "skill": "Moniteur E2"
     },
     {
-      "title": "Moniteur fédéral 1er degré",
-      "cmas": "Moniteur ★★",
-      "cds": "E-3",
-      "body": "Enseignant du N1 au N5 jusque 40 m\n\n[Directeur de plongée](https://fr.wikipedia.org/wiki/Directeur_de_plong%C3%A9e)"
+      "skill": "Moniteur fédéral 1er degré"
     },
     {
-      "title": "Moniteur fédéral 2ème degré",
-      "cmas": "Moniteur ★★★",
-      "cds": "E-4",
-      "body": "Enseignant du N1 au N5 jusque 60 m\n\nEnseignant de MF1"
+      "skill": "Moniteur fédéral 2ème degré"
     }
   ]
 }
