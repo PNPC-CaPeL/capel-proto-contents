@@ -1,7 +1,3 @@
----
-text-id: regulation
----
-
 ## Règlement 2021 de la plongée sous-marine dans les cœurs marins du Parc National de Port-Cros
 
 *Dans un souci partagé d’assurer la pérennité d’un milieu naturel, culturel et paysager d’exception et d’une activité de plongée de découverte, de reconnaissance et de contribution à la gestion patrimoniale des fonds marins, le Parc national de Port-Cros, d’une part, les plongeurs individuels, les structures de plongée et les fournisseurs de supports de plongée signataires, d’autre part, ont convenu des dispositions suivantes :*
